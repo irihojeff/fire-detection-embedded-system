@@ -1,7 +1,7 @@
 # Fire Detection System - Embedded Programming Task
 
-**Author:** Japhet  
-**Date:** December 2024  
+**Author:** Japhet Idukundiriho 
+**Date:** July 2025  
 **Platform:** Arduino Uno  
 **Purpose:** Automatic fire detection with security features
 
