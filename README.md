@@ -227,8 +227,7 @@ if (cmd.length() == 0 || cmd.length() > 15) {
 fire-detection-embedded-system/
 ├── 📄 fire_detection_system.ino    # Main Arduino code (Tinkercad optimized)
 ├── 📄 README.md                    # This documentation
-├── 📄 SIMULATION_LINK.md           # Direct link to working demo
-└── 📄 LICENSE                      # MIT License
+
 ```
 
 ## 🔮 Future Enhancements
