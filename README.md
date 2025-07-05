@@ -287,20 +287,6 @@ STATS           - Show operation statistics
 - Tamper detection monitoring
 - Safe mode on multiple failures
 
-## File Structure
-
-```
-fire-detection-system/
-├── src/
-│   └── fire_detection_system.ino
-├── docs/
-│   ├── README.md
-│   └── wiring_diagram.md
-├── simulation/
-│   └── tinkercad_link.txt
-└── LICENSE
-```
-
 ## Future Enhancements
 
 - [ ] Bluetooth/WiFi connectivity
