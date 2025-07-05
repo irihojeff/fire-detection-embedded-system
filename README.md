@@ -8,7 +8,7 @@
 ## 🎭 **LIVE DEMONSTRATION**
 
 ### **🔗 Interactive Simulation**
-**[▶️ VIEW WORKING DEMO - CLICK HERE](https://www.tinkercad.com/things/0PK8xqMRNfj/editel?returnTo=%2Fdashboard&sharecode=PYwSsQ13vpTBheAiQrPtZMntPj0ANpmkbVobS1h7V3s)**
+**[▶️ VIEW WORKING DEMO - CLICK HERE](https://www.tinkercad.com/things/0PK8xqMRNfj/editel?returnTo=%2Fdashboard&sharecode=6gTxu-P4kwvJDtDT-segCF2-LCS4S8u_DRjqtkG9AFQ)**
 
 
 ### **🎮 Demo Commands** 
