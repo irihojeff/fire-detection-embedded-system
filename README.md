@@ -8,9 +8,8 @@
 ## 🎭 **LIVE DEMONSTRATION**
 
 ### **🔗 Interactive Simulation**
-**[▶️ VIEW WORKING DEMO - CLICK HERE](YOUR_TINKERCAD_LINK_HERE)**
+**[▶️ VIEW WORKING DEMO - CLICK HERE](https://www.tinkercad.com/things/0PK8xqMRNfj/editel?returnTo=%2Fdashboard&sharecode=PYwSsQ13vpTBheAiQrPtZMntPj0ANpmkbVobS1h7V3s)**
 
-*Replace YOUR_TINKERCAD_LINK_HERE with your actual Tinkercad URL*
 
 ### **🎮 Demo Commands** 
 Once simulation is running, use these commands in Serial Monitor:
